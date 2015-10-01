@@ -1,0 +1,25 @@
+# AUTHOR #
+Adam Coster of Butterscotch Shenanigans, LLC
+
+# LICENSE #
+The author attaches no license to any of the data or code,
+it is therefore in the Public Domain.
+
+# THE DATA #
+The data is from Steamspy, using the tag-based search tools
+followed by the copy-to-clipboard functionality. The header
+was modified to be R-parseable. The rest of the data is processed
+within the R script.
+
+# THE R SCRIPT #
+The R script cleans up the data and then generates a set of
+plots. It has several requirements for use: R itself, and the
+packages loaded at the top of the script. The author has not
+attached any license to this script, so you may download,
+redistribute, and edit it as you please.
+
+# CONTACT #
+The author has no plans to update the data or code. It is
+meant to provide transparency to the companion article at
+http://www.butterscotch-shenanigans.com/2015/10/indiepocalypse-more-like.html
+Contact information can be found at that site.
